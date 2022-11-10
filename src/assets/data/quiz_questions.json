@@ -1,0 +1,58 @@
+{
+  "title":"Você seria um herói ou vilão ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual super poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
+        {"id": 2, "name":"Voar", "alias":"B"},
+        {"id": 3, "name":"Explodir coisas", "alias":"A"},
+        {"id": 4, "name":"Curar feridas", "alias":"B"},
+        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Quem você salvaria primeiro ?",
+      "options":[
+        {"id": 1, "name":"Crianças", "alias":"B"},
+        {"id": 2, "name":"Idosos", "alias":"A"},
+        {"id": 3, "name":"Não saberia escolher", "alias":"B"},
+        {"id": 4, "name":"Ninguém", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "options":[
+        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
+        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
+        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Se você fosse um herói, qual seria seu principal objetivo ?",
+      "options":[
+        {"id": 1, "name":"Ganhar dinheiro", "alias":"A"},
+        {"id": 2, "name":"Ajudar o máximo de pessoas", "alias":"B"},
+        {"id": 3, "name":"Acabar com os vilões", "alias":"A"},
+        {"id": 4, "name":"Se tornar o herói nº 1", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você apertaria um botão que fizesse sua família ficar rica e saudável, mas que matasse alguém em troca ?",
+      "options":[
+        {"id": 1, "name":"Sim", "alias":"A"},
+        {"id": 2, "name":"Não", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super Herói!"
+  }
+}
