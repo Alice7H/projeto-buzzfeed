@@ -58,7 +58,7 @@
   color: #000000;
 }
 .btn-option:active {
-  posirion: relative;
+  position: relative;
   top: 1px;
 }
 .quiz_results {
